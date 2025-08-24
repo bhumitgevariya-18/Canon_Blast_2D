@@ -1,4 +1,6 @@
-# Meteor Defense
+![Image](https://github.com/user-attachments/assets/c8fedd52-02ee-47ff-9661-c38cb13dc45c)
+
+# Canon Blast
 
 A Unity 2D arcade game where you control a mobile cannon to defend against falling meteors. Shoot down meteors before they reach the ground, using intuitive mouse controls and fast reflexes.
 
@@ -73,4 +75,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ---
 
-> _Meteor Defense_ © 2025
+> _Meteor Defense_ Â© 2025
