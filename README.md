@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/c8fedd52-02ee-47ff-9661-c38cb13dc45c)
 
-# Canon Blast
+# Cannon Blast
 
 A Unity 2D arcade game where you control a mobile cannon to defend against falling meteors. Shoot down meteors before they reach the ground, using intuitive mouse controls and fast reflexes.
 
